@@ -94,15 +94,8 @@ Here are some screenshots of the application in action:
 
 1. **Application Window**:  
    The main GUI window with the API key entry, microphone selection, and transcription output.  
-   ![App Screenshot 1](screenshots/app_window.png)
+   ![App Screenshot 1](screenshot1.png)
 
-2. **Transcription in Real-time**:  
-   The transcription is displayed in the text area in real-time as you speak.  
-   ![App Screenshot 2](screenshots/transcription.png)
-
-3. **Recording Button**:  
-   The circular button toggles between green (recording) and red (stopped) based on the state.  
-   ![App Screenshot 3](screenshots/recording_button.png)
 
 ## Troubleshooting
 
@@ -116,6 +109,3 @@ Here are some screenshots of the application in action:
 - **Performance Improvements**: Optimize the real-time transcription process for faster response times.
 - **Additional Features**: Implement features like saving transcriptions to a file or directly integrating with other services (e.g., Slack, Google Docs).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
